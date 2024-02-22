@@ -102,10 +102,8 @@ function App() {
           </div>
 
           <h2 className='text-2xl font-extrabold text-gray-500 text-center'>
-              Desarrollado por: <span className='text-indigo-600'>Código Con Juan </span>
+              Desarrollado por: <span className='text-indigo-600'>Jesus Carrillo </span>
           </h2>
-          <a className='block my-5' target="_blank" rel="noreferrer noopener" href="https://twitter.com/codigoconjuan">@codigoconjuan</a>
-          <a className='block mb-5' target="_blank" rel="noreferrer noopener" href="https://codigoconjuan.com">Vísita mi Sitio Web.</a>
 
 
       </div>
